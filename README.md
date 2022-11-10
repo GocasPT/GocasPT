@@ -3,7 +3,7 @@
 ###
 ![github stats](https://github-readme-stats.vercel.app/api?username=GocasPT&show_icons=true&theme=dark&count_private=true)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GocasPT&layout=compact&theme=dark&hide=CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GocasPT&layout=compact&theme=dark)
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">

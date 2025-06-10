@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SchedWiz<br>⚡ Fun fact dyslexia + tiredness = funny text :p
+⚡ Fun fact dyslexia + tiredness = funny text :p
 
 
 # 💻 Tech Stack:
